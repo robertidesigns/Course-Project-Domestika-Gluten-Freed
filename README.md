@@ -4,7 +4,7 @@
 
 <h4 align="center">This website was built using <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">HTML</a>, <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">CSS</a>, and <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">Javascript</a>, as a way of learning how to use Adobe Dreamweaver to construct a website, following specifications provided by <a href="https://www.domestika.org/es/courses/1194-diseno-web-responsive-con-adobe-dreamweaver/course">this Course.</h4>
 
-<p align="center">Although the teacher provides all the details and instructions for recreating a template website, the website hereby showcased is based off a personal branding project completed as part of my <a href="https://www.uoc.edu/es/estudios/masters/master-universitario-diseno-identidad-visual-marca">MA Design, Visual Identity & Branding</a>.<br>If you're interested in seeing more about this porject, you can find it <a href="https://www.behance.net/robertidesigns">here</a>.</p>
+<p align="center">Although the teacher provides all the details and instructions for recreating a template website, the website hereby showcased is based off a personal branding project completed as part of my <a href="https://www.uoc.edu/es/estudios/masters/master-universitario-diseno-identidad-visual-marca">MA Design, Visual Identity & Branding</a>.<br>If you're interested in seeing more about this project, you can find it <a href="https://www.behance.net/gallery/171083351/Gluten-Freed-Brand-Identity">here</a>.</p>
 
 # Preview of the website
 
